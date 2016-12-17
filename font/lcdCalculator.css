@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'lcdcalculator';
+    src: url(" javscript-calculator/font/LCD calculator.woff ") format('woff'),
+         url(" javscript-calculator/font/LCD calculator.otf ") format('otf');
+    font-weight: normal;
+    font-style: normal;
+} 
