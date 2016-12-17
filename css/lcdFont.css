@@ -1,6 +1,7 @@
 @font-face {
-    font-family: 'lcdCalculator';
-    src: url('https://cdn.rawgit.com/dem-s/javscript-calculator/blob/c23143beeb48f72fcf436788dcb1deed74d80856/font/LCD%20calculator.woff') format('woff');
+    font-family: 'lcdcalculator';
+    src: url("https://cdn.rawgit.com/dem-s/javscript-calculator/blob/master/font/LCD%20calculator.woff"),
+         url("https://cdn.rawgit.com/dem-s/javscript-calculator/blob/master/font/LCD%20calculator.otf");
     font-weight: 100;
     font-style: normal;
 } 
